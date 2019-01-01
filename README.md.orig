@@ -1,0 +1,6 @@
+#git test--init
+<<<<<<< HEAD
+##modify by feature-A
+=======
+##modify by feature-B
+>>>>>>> feature-B
